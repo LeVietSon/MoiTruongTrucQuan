@@ -1,0 +1,6 @@
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai3\bin\Debug\Bai3.exe.config
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai3\bin\Debug\Bai3.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai3\bin\Debug\Bai3.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai3\obj\Debug\Bai3.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai3\obj\Debug\Bai3.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai3\obj\Debug\Bai3.csprojAssemblyReference.cache

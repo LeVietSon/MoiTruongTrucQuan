@@ -1,0 +1,5 @@
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai2\bin\Debug\Bai2.exe.config
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai2\bin\Debug\Bai2.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai2\bin\Debug\Bai2.pdb
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai2\obj\Debug\Bai2.exe
+D:\Bài Tập\Lập trình môi trường trực quan\Bai1\Bai2\obj\Debug\Bai2.pdb
